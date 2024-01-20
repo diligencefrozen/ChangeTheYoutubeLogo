@@ -9,13 +9,8 @@ This project provides a user script to change the YouTube logo to the Desired Co
 ## How to install
 <li>Install <a href="https://chrome.google.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo">Tampermonkey</a>.</li>
 <li>Click on the logo</li><br/>
-<a href="https://raw.githubusercontent.com/diligencefrozen/ChangeToYouTubePremiumLogo/main/youtubepremiumlogo/main.js"><img src="https://github.com/diligencefrozen/ChangeToYouTubePremiumLogo/blob/main/logo/original.png?raw=true"><br/><br/></a>
-<a href="https://raw.githubusercontent.com/diligencefrozen/ChangeToYouTubePremiumLogo/main/youtubepremiumlogo/black.js"><br/><img src="https://github.com/diligencefrozen/ChangeToYouTubePremiumLogo/blob/main/logo/black.png?raw=true"><br/><br/></a>
-<a href="https://raw.githubusercontent.com/diligencefrozen/ChangeToYouTubePremiumLogo/main/youtubepremiumlogo/pink.js"><br/><img src="https://github.com/diligencefrozen/ChangeToYouTubePremiumLogo/blob/main/logo/pink.png?raw=true"><br/><br/></a>
-<a href="https://raw.githubusercontent.com/diligencefrozen/ChangeToYouTubePremiumLogo/main/youtubepremiumlogo/yellow.js"><br/><img src="https://github.com/diligencefrozen/ChangeToYouTubePremiumLogo/blob/main/logo/yellow.png?raw=true"><br/><br/></a>
-<a href="https://raw.githubusercontent.com/diligencefrozen/ChangeToYouTubePremiumLogo/main/youtubepremiumlogo/green.js"><br/><img src="https://github.com/diligencefrozen/ChangeToYouTubePremiumLogo/blob/main/logo/green.png?raw=true"><br/><br/></a>
-<a href="https://raw.githubusercontent.com/diligencefrozen/ChangeToYouTubePremiumLogo/main/youtubepremiumlogo/brown.js"><br/><img src="https://github.com/diligencefrozen/ChangeToYouTubePremiumLogo/blob/main/logo/brown.png?raw=true"><br/><br/></a>
-<a href="https://raw.githubusercontent.com/diligencefrozen/ChangeToYouTubePremiumLogo/main/youtubepremiumlogo/grey.js"><br/><img src="https://github.com/diligencefrozen/ChangeToYouTubePremiumLogo/blob/main/logo/grey.png?raw=true"><br/><br/></a>
+<a href="https://github.com/diligencefrozen/ChangeTheYoutubeLogo/edit/main/youtubelogo/main.js">
+<img src="https://github.com/diligencefrozen/ChangeTheYouTubeLogo/blob/main/logo/original.png?raw=true"><br/><br/></a>
 
 <li>Copy the Source code.</li><br/>
 <li>Click the "Create a new script" in the Tampermonkey.</li><br/>
