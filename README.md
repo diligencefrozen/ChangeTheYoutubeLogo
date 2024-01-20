@@ -14,7 +14,7 @@ This project provides a user script to change the YouTube logo to the Desired Co
 
 <li>Copy the Source code.</li><br/>
 <li>Click the "Create a new script" in the Tampermonkey.</li><br/>
-<img src="https://github.com/diligencefrozen/ChangeToYouTubePremiumLogo/blob/main/logo/readme_manual.png?raw=true"><br/><br/>
+<img src="https://github.com/diligencefrozen/ChangeToYouTubePremiumLogo/blob/main/logo/readmev1.png?raw=true"><br/><br/>
 
 <li>Click the "Save" in the Tampermonkey.</li><br/>
 <img src="https://github.com/diligencefrozen/ChangeToYouTubePremiumLogo/blob/main/logo/readme_manual02.png?raw=true"><br/><br/>
