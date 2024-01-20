@@ -2,7 +2,7 @@
 
 // @name         ChangeTheYouTubeLogo(Original, Red)
 
-// @version      20240120.1
+// @version      20240121.1
 
 // @description  Change YouTube logo to a Logo with a Specific Color
 
@@ -20,22 +20,29 @@
 
 // @downloadURL  https://raw.githubusercontent.com/diligencefrozen/ChangeTheYoutubeLogo/main/youtubelogo/main.js
 
+// @require      http://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js
+
 // ==/UserScript==
 
-function changeYouTubeLogo() {
-    var ytIcon = document.getElementById('logo-icon');
-    ytIcon.innerHTML = '';
 
-    var newLogo = new Image();
-    newLogo.width = 94;
+(function() {
+    'use strict';
+    // Configuration to use jQuery without any conflicts
+    const $ = jQuery.noConflict(true);
 
-    if (document.documentElement.getAttribute('dark')) {
-        newLogo.src = 'https://github.com/diligencefrozen/ChangeTheYouTubeLogo/blob/main/logo/logov1.png?raw=true';
-    } else {
-        newLogo.src = 'https://github.com/diligencefrozen/ChangeTheYouTubeLogo/blob/main/logo/logov1.png?raw=true';
-    }
+    // Select the location of the logo and clear its existing content
+    let logoContainer = $('#logo-icon').empty();
 
-    ytIcon.appendChild(newLogo);
-}
+    // Set the URL for the logo image to be applied
+    let darkModeLogoURL = 'https://github.com/diligencefrozen/ChangeTheYouTubeLogo/blob/main/logo/logov1.png?raw=true';
+    let lightModeLogoURL = 'https://github.com/diligencefrozen/ChangeTheYouTubeLogo/blob/main/logo/logov2.png?raw=true';
 
-changeYouTubeLogo();
+    // Apply the appropriate logo based on whether dark mode is enabled
+    let logoURL = $('html').is('[dark]') ? darkModeLogoURL : lightModeLogoURL;
+
+    // Create an image element and set its style
+    let imgElement = $('<img>', { src: logoURL, style: 'width: 94px' });
+
+    // Insert the image into the logo container
+    logoContainer.append(imgElement);
+})();
