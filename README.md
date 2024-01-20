@@ -9,7 +9,7 @@ This project provides a user script to change the YouTube logo to the Desired Co
 ## How to install
 <li>Install <a href="https://chrome.google.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo">Tampermonkey</a>.</li>
 <li>Click on the logo</li><br/>
-<a href="https://github.com/diligencefrozen/ChangeTheYoutubeLogo/edit/main/youtubelogo/main.js">
+<a href="https://raw.githubusercontent.com/diligencefrozen/ChangeTheYoutubeLogo/main/youtubelogo/main.js">
 <img src="https://github.com/diligencefrozen/ChangeTheYouTubeLogo/blob/main/logo/original.png?raw=true"><br/><br/></a>
 
 <li>Copy the Source code.</li><br/>
