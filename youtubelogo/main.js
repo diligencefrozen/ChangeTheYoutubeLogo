@@ -32,7 +32,7 @@ function changeYouTubeLogo() {
     if (document.documentElement.getAttribute('dark')) {
         newLogo.src = 'https://github.com/diligencefrozen/ChangeTheYouTubeLogo/blob/main/logo/logov1.png?raw=true';
     } else {
-        newLogo.src = 'https://github.com/diligencefrozen/ChangeTheYouTubeLogo/blob/main/logo/logov2.png?raw=true';
+        newLogo.src = 'https://github.com/diligencefrozen/ChangeTheYouTubeLogo/blob/main/logo/logov1.png?raw=true';
     }
 
     ytIcon.appendChild(newLogo);
