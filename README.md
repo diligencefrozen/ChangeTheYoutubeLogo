@@ -12,7 +12,7 @@ This project provides a user script to change the YouTube logo to the Desired Co
 <a href="https://raw.githubusercontent.com/diligencefrozen/ChangeTheYoutubeLogo/main/youtubelogo/main.js">
 <img src="https://github.com/diligencefrozen/ChangeTheYoutubeLogo/blob/main/logo/Original.jpeg?raw=true"><br/><br/></a>
 <a href="https://raw.githubusercontent.com/diligencefrozen/ChangeTheYoutubeLogo/main/youtubelogo/black.js">
-<img src="https://github.com/diligencefrozen/ChangeTheYoutubeLogo/blob/main/logo/Black.jpeg?raw=true"><br/><br/></a>
+<img src="https://github.com/diligencefrozen/ChangeTheYoutubeLogo/blob/main/logo/Black.jpg?raw=true"><br/><br/></a>
 
 <li>Copy the Source code.</li><br/>
 <li>Click the "Create a new script" in the Tampermonkey.</li><br/>
