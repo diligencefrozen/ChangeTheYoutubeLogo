@@ -2,7 +2,7 @@
 
 // @name         ChangeTheYouTubeLogo(Pink)
 
-// @version      20240121.1
+// @version      20240121.2
 
 // @description  Change YouTube logo to a Logo with a Specific Color
 
