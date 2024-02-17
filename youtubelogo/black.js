@@ -6,6 +6,8 @@
 
 // @description  Change YouTube logo to a Logo with a Specific Color
 
+// @namespace    http://tampermonkey.net/
+
 // @author       diligencefrozen
 
 // @match        https://www.youtube.com/*
