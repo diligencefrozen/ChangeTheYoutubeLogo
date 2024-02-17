@@ -14,8 +14,6 @@
 
 // @grant        none
 
-// @namespace    https://github.com/diligencefrozen/ChangeTheYouTubeLogo
-
 // @icon         https://www.google.com/s2/favicons?domain=youtube.com
 
 // @updateURL    https://raw.githubusercontent.com/diligencefrozen/ChangeTheYoutubeLogo/main/youtubelogo/black.js
